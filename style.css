@@ -38,12 +38,6 @@ body {
     margin-top: 80px;
 }
 
-.header-box {
-    width: 50%;
-    margin-top: auto;
-    margin-bottom: auto;
-}
-
 .header-title {
     font-size: 90px;
 }
@@ -94,21 +88,6 @@ body {
 }
 
 .content-title {
-    font-size: 36px;
-    padding-left: 5px;
-}
-
-.content-title-color-1 {
-    font-size: 36px;
-    padding-left: 5px;
-}
-
-.content-title-color-2 {
-    font-size: 36px;
-    padding-left: 5px;
-}
-
-.content-title-color-3 {
     font-size: 36px;
     padding-left: 5px;
 }
